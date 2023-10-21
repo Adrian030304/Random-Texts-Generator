@@ -46,3 +46,13 @@ const quotes = [
     person: "J.K. Rowling, Harry Potter and the Goblet of Fire"
   }
 ];
+
+btn.addEventListener('click',function(){
+
+    let random = Math.floor(Math.random() * quotes.length);
+    
+    quote.innerText = quotes[random].quote;
+    person.innerText = quotes[random].person;
+
+
+})
