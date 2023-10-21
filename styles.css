@@ -1,0 +1,32 @@
+/* General Styles */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    background: url(img/ocean-1.jpg) no-repeat center center/ cover;
+}
+
+.container {
+    width: 500px;
+    height: 450px;
+}
+
+.header{
+    font-size: 1.2rem;
+    border: solid 2px #fff;
+    color: white;
+    background-color: #262626;
+    padding: 5px;
+    width: 80%;
+    margin : 20px auto;
+}
