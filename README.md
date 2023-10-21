@@ -15,6 +15,13 @@ CSS: Styles the HTML elements to enhance the visual appeal and layout.
 
 JavaScript: Powers the random text generation and clipboard copy functionality, adding interactivity to the project.
 
+
+Key concepts for Project : 
+    document.querySelector()
+    addEventListener()
+    Math Object()
+    innerText
+
 Contributions are welcome! If you have any ideas for improvement or new features, feel free to open an issue or submit a pull request.
 
 Special thanks to FreeCodeCamp for inspiration in generating random text.
