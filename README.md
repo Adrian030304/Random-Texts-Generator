@@ -1,5 +1,5 @@
 # Random-Texts-Generator
-
+Live : https://generatortext.netlify.app
 
 Overview This project is a simple web-based random text generator that uses HTML, CSS, and JavaScript. It's a fun and lightweight tool that allows users to generate random text with just a click of a button.
 
